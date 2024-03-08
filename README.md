@@ -3,9 +3,9 @@
 
 - 🔭 Estou atualmente trabalhando como freelancer no workana fazendo projetos de desenvolvimento web **DEV Freela**
 
-- 🌱 Atualmente estou aprendendo **Javascript, Python**
+- 🌱 Atualmente estou aprendendo **Javascript, React.js, PHP e MySQL**
 
-- 💬 Me pergunte sobre: **Python, Javascript, HTML5, CSS3, Angular, ReactJS**
+- 💬 Me pergunte sobre: **Javascript, HTML5, CSS3, ReactJS, PHP e MySQL**
 
 - 📫 Você me acha através do: **brendoricardo@gmail.com**
 
